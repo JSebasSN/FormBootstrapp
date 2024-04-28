@@ -1,0 +1,19 @@
+.formulario{
+    width: 1000px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.tituForm{
+    font-weight: 700;
+    font-size: 28px;
+}
+.txtCard{
+    margin-bottom: 10px;
+}
+
+label{
+    font-weight: 500;
+}
+
